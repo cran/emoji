@@ -1,3 +1,12 @@
+# emoji 15.0
+
+* Package version will now reflect the emoji version set by Unicode.
+* Updated data to include Emoji v15.0.
+* Added `emoji_modifiers` data set with information about emojis and their modifiers.
+* Added `emoji_modifier_extract()` to extract modifiers from emojis. (#8)
+* Added `emoji_modifier_remove()` to remove modifiers from emojis. (#7)
+* Added `zoo()` to randomly sample animal emojis. (#10)
+
 # emoji 0.2.0
 
 * Updated data to include Emoji v14.0.
