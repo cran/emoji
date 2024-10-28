@@ -1,3 +1,9 @@
+# emoji 16.0.0
+
+* Updated data to include Emoji v16.0. ($16)
+* `emoji()` is now more relaxed about input. (#20)
+* Added `emoji_replace_name()` to replace emojis in string with name. (#14)
+
 # emoji 15.0
 
 * Package version will now reflect the emoji version set by Unicode.
